@@ -1,0 +1,14 @@
+layout_spectrum: 0.24633121374063194
+typography_spectrum: 0.3792620359454304
+color:
+  brandStrength: 0.07512882188893855
+  lightness: 0.5002548322081566
+  saturation: 0.4225301237311214
+  rhythmicContrast: 0.09874607203528285
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: incen/diary
